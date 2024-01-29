@@ -10,4 +10,5 @@ const TodoTemplate = (props) =>
         </div>
     );
 };
+
 export default TodoTemplate;
